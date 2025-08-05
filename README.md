@@ -1,1 +1,2 @@
 # SCT_ML_2
+This project implements a K-means clustering algorithm to segment mall customers based on their purchasing behavior. The dataset includes features such as age, gender, annual income, and spending score. For clustering, we focus on "Annual Income (k$)" and "Spending Score (1-100)" to identify distinct customer groups. The Elbow Method is used to determine the optimal number of clusters. These clusters provide insights into customer behavior, enabling businesses to develop targeted marketing strategies and personalized services.
